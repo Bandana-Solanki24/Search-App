@@ -1,0 +1,244 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "img":"cake3(2).jpg",
+      "title":"Black-forest cake "
+    },
+    {
+      "id": 2,
+      "img":"cake4.jpg",
+      "title":"White-forest cake"
+    },
+    {
+      "id": 3,
+      "img":"cake5.jpg",
+      "title":"Choclate cake"
+    },
+    {
+      "id": 4,
+      "img":"cake (5).jpg",
+      "title":"Fruit-cake"
+    },
+    {
+      "id": 5,
+      "img":"cake1.jpg",
+      "title":"Pine-apple cake"
+    },
+    {
+      "id": 6,
+      "img":"cake2.jpg",
+      "title":"Dark choclate cake"
+    }
+  
+  ],
+   "iceCreams": [
+    {
+      "id": 1,
+      "img":"ice-cream.jpg"
+    },
+    {
+      "id": 2,
+      "img":"ice-crean(6).jpg"
+    },
+    {
+      "id": 3,
+      "img":"icecream.jpg"
+    },
+    {
+      "id": 4,
+      "img":"icecream(9).jpg"
+    },
+    {
+      "id": 5,
+      "img":"icecream(10).jpg"
+    },
+    {
+      "id": 6,
+      "img":"icecream2.jpg"
+    }
+  ],
+   "chocolates":[
+    {
+      "id": 1,
+      "img":"chocolate1.jpg"
+    },
+    {
+      "id": 2,
+      "img":"chocolate2.jpg"
+    },
+    {
+      "id": 3,
+      "img":"chocolate3.jpg"
+    },
+    {
+      "id": 4,
+      "img":"chocolate4.jpg"
+    },
+    {
+      "id": 5,
+      "img":"chocolate5.jpg"
+    },
+    {
+      "id": 6,
+      "img":"chocolate6.jpg"
+    }
+  ],
+  "doughnuts":[
+    {
+      "id": 1,
+      "img":"doughnuts1.jpg"
+    },
+    {
+      "id": 2,
+      "img":"doughnuts2.jpg"
+    },
+    {
+      "id": 3,
+      "img":"doughnuts3.jpg"
+    },
+    {
+      "id": 4,
+      "img":"doughnuts4.jpg"
+    },
+    {
+      "id": 5,
+      "img":"doughnuts5.jpg"
+    },
+    {
+      "id": 6,
+      "img":"doughnuts6.jpg"
+    }
+  ],
+    "all":[
+      {
+        "id": 1,
+        "img":"cake3(2).jpg",
+        "title":"Black-forest cake"
+      },
+      {
+        "id": 2,
+        "img":"cake4.jpg",
+        "title":"Vanilla cake"
+      },
+      {
+        "id": 3,
+        "img":"cake5.jpg",
+        "title":"White-forest cake"
+      },
+      {
+        "id": 4,
+        "img":"cake (5).jpg",
+        "title":"Choclate cake"
+      },
+      {
+        "id": 5,
+        "img":"cake1.jpg",
+        "title":"Pineapple cake"
+      },
+      {
+        "id": 6,
+        "img":"cake2.jpg",
+        "title":"Dark choclate cake"
+      },
+      {
+        "id": 7,
+        "img":"doughnuts1.jpg",
+        "title":"Spungy donut"
+      },
+      {
+        "id": 8,
+        "img":"doughnuts2.jpg",
+        "title":"Sprinkle donut"
+      },
+      {
+        "id": 9,
+        "img":"doughnuts3.jpg",
+        "title":"Jelly donuts"
+      },
+      {
+        "id": 10,
+        "img":"doughnuts4.jpg",
+        "title":"Pineapple donut"
+      },
+      {
+        "id": 11,
+        "img":"doughnuts5.jpg",
+        "title":"Choclate donut"
+      },
+      {
+        "id": 12,
+        "img":"doughnuts6.jpg",
+        "title":"Creamy donut"
+      },
+      {
+        "id": 13,
+        "img":"ice-cream.jpg",
+        "title":"Butter skotch ice cream"
+      },
+      {
+        "id": 14,
+        "img":"ice-crean(6).jpg",
+        "title":"Pine apple ice-cream"
+      },
+      {
+        "id": 15,
+        "img":"icecream.jpg",
+        "title":"Choclate ice-cream"
+      },
+      {
+        "id": 16,
+        "img":"icecream(9).jpg",
+        "title":"Raj bhog ice-cream"
+      },
+      {
+        "id": 17,
+        "img":"icecream(10).jpg",
+        "title":"Fruity ice-cream"
+      },
+      {
+        "id": 18,
+        "img":"icecream2.jpg",
+        "title":"Vanilla ice-cream"
+      },
+      {
+        "id": 19,
+        "img":"chocolate1.jpg",
+        "title":"Milk choclate"
+      },
+      {
+        "id": 20,
+        "img":"chocolate2.jpg",
+        "title":"Ferroro Rocher choclate "
+      },
+      {
+        "id": 21,
+        "img":"chocolate3.jpg",
+        "title":"Amul choclate big "
+      },
+      {
+        "id": 22,
+        "img":"chocolate4.jpg",
+        "title":"Amul choclate"
+      },
+      {
+        "id": 23,
+        "img":"chocolate5.jpg",
+        "title":"Ferroro Rocher special"
+      },
+      {
+        "id": 24,
+        "img":"chocolate6.jpg",
+        "title":"Home made choclate"
+      }
+    
+
+    ]
+      
+
+    
+  
+  
+  
+  
+}
