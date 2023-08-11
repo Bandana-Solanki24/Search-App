@@ -1,18 +1,18 @@
-import React from 'react';
-import { useEffect, useState } from 'react';
-import axios from 'axios';
-import './index.css';
+import React from "react";
+import { useEffect, useState } from "react";
+import axios from "axios";
+import "./index.css";
 
 const All = () => {
   const [images, setImages] = useState([]);
-  const [searchItem, setSearchItem] = useState('');
+  const [searchItem, setSearchItem] = useState("");
 
   useEffect(() => {
     getImages();
   }, []);
 
   const getImages = async () => {
-    const result = await axios.get('http://localhost:5000/all');
+    const result = await axios.get("http://localhost:5000/all");
     setImages(result.data);
     console.log(result);
   };
@@ -30,6 +30,7 @@ const All = () => {
       <div className="header-container">
         <h1 className="heading">Our store</h1>
         <input
+          placeholder="Search Products"
           onChange={handleChange}
           value={searchItem}
           className="input-element"
@@ -43,7 +44,7 @@ const All = () => {
             <li key={image.id}>
               <div className="image-container">
                 <img className="image" src={image.img} alt={image.imageUrl} />
-                <p className="names">{image.title}</p>
+                <div className="names">{image.title}</div>
               </div>
             </li>
           );

@@ -35,79 +35,99 @@
    "iceCreams": [
     {
       "id": 1,
-      "img":"ice-cream.jpg"
+      "img":"ice-cream.jpg",
+      "title":"Butter skotch ice cream"
     },
     {
       "id": 2,
-      "img":"ice-crean(6).jpg"
+      "img":"ice-crean(6).jpg",
+      "title":"Pine apple ice-cream"
     },
     {
       "id": 3,
-      "img":"icecream.jpg"
+      "img":"icecream.jpg",
+      "title":"Choclate ice-cream"
     },
     {
       "id": 4,
-      "img":"icecream(9).jpg"
+      "img":"icecream(9).jpg",
+      "title":"Raj bhog ice-cream"
     },
     {
       "id": 5,
-      "img":"icecream(10).jpg"
+      "img":"icecream(10).jpg",
+      "title":"Fruity ice-cream"
     },
     {
       "id": 6,
-      "img":"icecream2.jpg"
+      "img":"icecream2.jpg",
+      "title":"Vanilla ice-cream"
     }
+    
   ],
    "chocolates":[
     {
       "id": 1,
-      "img":"chocolate1.jpg"
+      "img":"chocolate1.jpg",
+      "title":"Milk choclate"
     },
     {
       "id": 2,
-      "img":"chocolate2.jpg"
+      "img":"chocolate2.jpg",
+      "title":"Ferroro Rocher choclate "
     },
     {
       "id": 3,
-      "img":"chocolate3.jpg"
+      "img":"chocolate3.jpg",
+      "title":"Amul choclate big "
     },
     {
       "id": 4,
-      "img":"chocolate4.jpg"
+      "img":"chocolate4.jpg",
+      "title":"Amul choclate"
     },
     {
       "id": 5,
-      "img":"chocolate5.jpg"
+      "img":"chocolate5.jpg",
+      "title":"Ferroro Rocher special"
     },
     {
       "id": 6,
-      "img":"chocolate6.jpg"
+      "img":"chocolate6.jpg",
+      "title":"Home made choclate"
     }
+  
   ],
   "doughnuts":[
     {
       "id": 1,
-      "img":"doughnuts1.jpg"
+      "img":"doughnuts1.jpg",
+      "title":"Spungy donut"
     },
     {
       "id": 2,
-      "img":"doughnuts2.jpg"
+      "img":"doughnuts2.jpg",
+      "title":"Sprinkle donut"
     },
     {
-      "id": 3,
-      "img":"doughnuts3.jpg"
+      "id": 2,
+      "img":"doughnuts3.jpg",
+      "title":"Jelly donuts"
     },
     {
       "id": 4,
-      "img":"doughnuts4.jpg"
+      "img":"doughnuts4.jpg",
+      "title":"Pineapple donut"
     },
     {
       "id": 5,
-      "img":"doughnuts5.jpg"
+      "img":"doughnuts5.jpg",
+      "title":"Choclate donut"
     },
     {
       "id": 6,
-      "img":"doughnuts6.jpg"
+      "img":"doughnuts6.jpg",
+      "title":"Creamy donut"
     }
   ],
     "all":[
